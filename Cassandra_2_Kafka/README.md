@@ -88,4 +88,3 @@ To stop the setup
 ```
 docker-compose down
 ```
-```
